@@ -11,7 +11,7 @@
     {
       "kind": "main",
       "tag": "com-sap-sample-echarts-prepared",
-      "url": "http://localhost:3000/echarts/prepared/main.js",
+      "url": "https://github.com/mapi2023/Repmp2/main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
